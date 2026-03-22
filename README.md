@@ -1,6 +1,7 @@
-## Howdy! I'm Davi
+## Howdy! I'm Davi :3
 My name's Davi — I love the idea of creating things and expressing myself through them,
 which is why programming is one of my passions!
+I like building weird, experimental projects (especially games)
 Here you'll find personal projects (mostly silly ones) made to gain knowledge, alongside school work.
 
 ---
@@ -59,7 +60,9 @@ Here you'll find personal projects (mostly silly ones) made to gain knowledge, a
 
 <div align="center">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davpoggers&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=davpoggers&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
