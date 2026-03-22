@@ -61,8 +61,6 @@ Here you'll find personal projects (mostly silly ones) made to gain knowledge, a
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davpoggers&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=davpoggers&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
