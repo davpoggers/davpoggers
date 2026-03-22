@@ -18,12 +18,19 @@ Here you'll find personal projects (mostly silly ones) made to gain knowledge, a
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" title="GDScript"/>
 
 </div>
@@ -35,9 +42,13 @@ Here you'll find personal projects (mostly silly ones) made to gain knowledge, a
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" title="Godot"/>
+&nbsp;
 <img src="https://cdn.simpleicons.org/expo/white" height="40" title="Expo"/>
+&nbsp;
 <img src="gdevelop.png" height="40" title="GDevelop 5"/>
+&nbsp;
 <img src="sharpdevelop.png" height="40" title="SharpDevelop"/>
 
 </div>
@@ -48,12 +59,14 @@ Here you'll find personal projects (mostly silly ones) made to gain knowledge, a
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davpoggers&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davpoggers&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=davpoggers&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=davpoggers&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=davpoggers&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
+<div align="center">
 <img src="PASWG.gif" width="200"/>
+</div>
