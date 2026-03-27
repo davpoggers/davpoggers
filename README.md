@@ -1,12 +1,9 @@
-## Howdy! I'm Davi :3
-My name's Davi — I love the idea of creating things and expressing myself through them,
-which is why programming is one of my passions!
-I like building weird, experimental projects (especially games)
-Here you'll find personal projects (mostly silly ones) made to gain knowledge, alongside school work.
+### Howdy! I'm Davi :3
+My name's Davi — I love the idea of creating things and expressing myself through them, which is why programming is one of my passions! I like building weird, experimental projects (especially games). Here you'll find personal projects (mostly silly ones) made to gain knowledge, alongside school work.
 
 ---
 
-### About Me
+#### About Me
 - Student at **Etec de Embu** — Systems Development + High School
 - Currently in **2nd year** (2/3)
 - I love games and one day I hope to make games like the indie games I love
@@ -14,60 +11,33 @@ Here you'll find personal projects (mostly silly ones) made to gain knowledge, a
 
 ---
 
-### 🖥️ Technologies
-
+#### 🖥️ Technologies & Tools
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" title="GDScript"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" title="Godot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/expo/white" height="30" title="Expo"/>
+  <img src="gdevelop.png" height="30" title="GDevelop 5"/>
+  <img src="sharpdevelop.png" height="30" title="SharpDevelop"/>
 </div>
 
 ---
 
-### 🛠️ IDEs & Tools
-
+#### 📊 Stats
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" title="Godot"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/expo/white" height="40" title="Expo"/>
-&nbsp;
-<img src="gdevelop.png" height="40" title="GDevelop 5"/>
-&nbsp;
-<img src="sharpdevelop.png" height="40" title="SharpDevelop"/>
-
-</div>
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davpoggers&show_icons=true&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=davpoggers&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
+  <img height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=davpoggers&theme=tokyonight&hide_border=true" />
+  <br>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davpoggers&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-<img src="PASWG.gif" width="200"/>
+  <img src="PASWG.gif" width="250"/>
 </div>
