@@ -29,6 +29,15 @@ My name's Davi — I love the idea of creating things and expressing myself thro
 
 ---
 
+#### 🏅 Badges
+<div align="center">
+  <a href="https://www.credly.com/users/davpoggers" target="_blank">
+    <img src="https://credly-readme-stats.onrender.com/api/grid?username=davpoggers&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
 #### 📊 Stats
 <div align="center">
   <img height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=davpoggers&theme=tokyonight&hide_border=true" />
